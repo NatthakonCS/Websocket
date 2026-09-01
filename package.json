@@ -1,0 +1,16 @@
+{
+  "name": "websocket",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@types/blessed": "^0.1.27",
+    "@types/ws": "^8.18.1",
+    "blessed": "^0.1.81",
+    "ws": "^8.21.3"
+  }
+}
